@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Configure preset using toolchain file",
+			"path": "windows/out/build/Configure preset using toolchain file"
+		}
+	],
+	"settings": {}
+}

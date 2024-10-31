@@ -1,0 +1,112 @@
+name: furniture_app
+description: "A new Flutter project."
+
+version: 1.0.0
+
+environment:
+  sdk: ^2.19.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fair: 3.2.1
+
+  cupertino_icons:
+  path_provider:
+  flutter_svg:
+  vector_graphics:
+  responsive_builder:
+  device_preview:
+  flutter_animate:
+  flutter_localizations:
+    sdk: flutter
+  flutter_native_splash:
+  provider:
+  easy_localization:
+  image_picker:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.0.0
+  fair_compiler: ^2.1.2
+
+  flutter_lints: ^2.0.0
+
+dependency_overrides:
+  fair_version:
+    path: ../fair/flutter_version/flutter_3_7_0
+#  intl: 0.19.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/fonts/
+    - assets/vectors/
+    - assets/translations/
+    - assets/images/bed/
+    - assets/images/sofa/
+    - assets/images/chair/
+    - assets/images/cart/
+    - assets/images/dining/
+    - assets/images/kitchen/
+    - assets/images/office/
+    - assets/images/loading/
+    - assets/vectors/profile/
+    - assets/images/hover/bedroom/
+    - assets/images/hover/livingroom/
+    - assets/images/hover/diningroom/
+    - assets/images/hover/kitchen/
+    - assets/images/hover/office/
+    - assets/translations/en-US.json
+    - assets/translations/vi-VN.json
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/poppins/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/poppins/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/poppins/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/poppins/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/poppins/Poppins-Thin.ttf
+          weight: 100
+    - family: League Spartan
+      fonts:
+        - asset: assets/fonts/league-spartan/LeagueSpartan-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/league-spartan/LeagueSpartan-Light.ttf
+          weight: 300
+        - asset: assets/fonts/league-spartan/LeagueSpartan-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/league-spartan/LeagueSpartan-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/league-spartan/LeagueSpartan-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/league-spartan/LeagueSpartan-Thin.ttf
+          weight: 100
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/inter/Inter_24pt-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/inter/Inter_24pt-Light.ttf
+          weight: 300
+        - asset: assets/fonts/inter/Inter_24pt-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/inter/Inter_24pt-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/inter/Inter_24pt-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/inter/Inter_24pt-Thin.ttf
+          weight: 100
+
+flutter_native_splash:
+  background_image: assets/images/launch.png
+  image: assets/images/launch.png

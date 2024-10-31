@@ -1,0 +1,76 @@
+{
+  "appTitle": "Ứng dụng Siêu Việt",
+  "welcomeMessage": "Chào mừng đến với Ứng dụng Siêu Việt!",
+  "button": {
+    "skip": "Bỏ qua",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "start": "Bắt đầu"
+  },
+  "intro_screen": {
+    "0": {
+      "title": "Không gian thoải mái",
+      "description": "Tận hưởng không gian rộng rãi và thoải mái ngay tại nhà bạn.",
+      "imagePath": "assets/images/image1.png"
+    },
+    "1": {
+      "title": "Thiết kế đẹp",
+      "description": "Phong cách thiết kế tinh tế, kết hợp giữa hiện đại và cổ điển.",
+      "imagePath": "assets/images/image2.png"
+    },
+    "2": {
+      "title": "Sống hiện đại",
+      "description": "Cập nhật các tiện ích hiện đại cho cuộc sống thông minh hơn.",
+      "imagePath": "assets/images/image3.png"
+    },
+    "3": {
+      "title": "Nội thất thời thượng",
+      "description": "Nội thất sang trọng, thời thượng mang lại phong cách sống đẳng cấp.",
+      "imagePath": "assets/images/image4.png"
+    }
+  },
+  "login_screen": {
+    "login": "Đăng nhập",
+    "signup": "Đăng ký",
+    "slogan": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "select_language": "Chọn ngôn ngữ",
+    "welcome": "Chào mừng",
+    "info": "Vui lòng nhập thông tin chi tiết của bạn để tiếp tục.",
+    "password": "Mật khẩu",
+    "hintPassword": "Nhập mật khẩu của bạn",
+    "username": "Tên đăng nhập hoặc Email",
+    "fullName": "Họ tên",
+    "hintUsername": "Nhập tên đăng nhập hoặc Email",
+    "forgotPass": "Quên mật khẩu?",
+    "anotherWay": "hoặc đăng nhập bằng",
+    "dontHaveAcc": "Chưa có tài khoản?",
+    "error1": "Vui lòng nhập mật khẩu",
+    "error2": "Mật khẩu phải có ít nhất 8 ký tự",
+    "error3": "Mật khẩu phải có ít nhất 1 ký tự đặc biệt",
+    "error4": "Vui lòng nhập email",
+    "error5": "Mật khẩu phải có ít nhất 1 chữ viết hoa",
+    "forgotPassTitle": "Quên mật khẩu",
+    "forgotPassDesc": "Vui lòng nhập email đã đăng ký của bạn. Hướng dẫn để đặt lại mật khẩu sẽ được gửi đến email của bạn. Hãy làm theo hướng dẫn để hoàn tất quá trình.",
+    "forgotPassQuest": "Đặt lại mật khẩu của bạn?",
+    "forgotPassRequest": "Nhập địa chỉ email của bạn",
+    "exampleEmail": "example@example.com",
+    "send": "Gửi",
+    "phoneFieldLabel": "Số điện thoại",
+    "hintPhone": "Nhập số điện thoại",
+    "errorPhone": "Vui lòng nhập số điện thoại",
+    "invalidPhone": "Số điện thoại không hợp lệ",
+    "invalidEmail": "Email không hợp lệ. Vui lòng nhập email giống như abcxyz@example.com.",
+    "examplePhone": "0123456789",
+    "email": "Email",
+    "enterPassword": "Nhập mật khẩu",
+    "forgotPassword": "Quên mật khẩu?",
+    "enterUsernameOrEmail": "Nhập tên đăng nhập hoặc email",
+    "enterPhoneNumber": "Nhập số điện thoại",
+    "resetPassword": "Đặt lại mật khẩu",
+    "dob": "Ngày sinh",
+    "confirmPass": "Xác nhận mật khẩu?"
+  },
+  "home_screen": {
+    "shop": "Shop now"
+  }
+}

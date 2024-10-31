@@ -1,0 +1,71 @@
+{
+  "appTitle": "Super App",
+  "welcomeMessage": "Welcome to Super App!",
+  "button": {
+    "skip": "Skip",
+    "back": "Back",
+    "next": "Next",
+    "start": "Get started"
+  },
+  "intro_screen": {
+    "0": {
+      "title": "Confortable Space",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imagePath": "assets/images/image1.png"
+    },
+    "1": {
+      "title": "Beautiful Design",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imagePath": "assets/images/image2.png"
+    },
+    "2": {
+      "title": "Modern Living",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+      "imagePath": "assets/images/image3.png"
+    },
+    "3": {
+      "title": "Royal Interior",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+      "imagePath": "assets/images/image4.png"
+    }
+  },
+  "login_screen": {
+    "login": "Log In",
+    "signup": "Sign Up",
+    "slogan": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "select_language": "Select your language",
+    "welcome": "Welcome",
+    "info": "Please enter your details to proceed.",
+    "password": "Password",
+    "hintPassword": "Password",
+    "username": "Username Or Email",
+    "fullName": "Full Name",
+    "hintUsername": "Username Or Email",
+    "forgotPass": "Forgot Password?",
+    "resetPass": "Reset Password?",
+    "confirmPass": "Confirm Password?",
+    "anotherWay": "or sign up with",
+    "dontHaveAcc": "Don't have an account?",
+    "error1": "Please input your password",
+    "error2": "The password must contain at least 8 characters",
+    "error3": "The password must contain at least 1 special character",
+    "error4": "Please enter your email",
+    "error5": "Password must contain at least one uppercase letter",
+    "forgotPassTitle": "Forgot Password",
+    "forgotPassDesc": "Please enter your registered email. Instructions to reset your password will be sent to your email. Follow the instructions to complete the process.",
+    "forgotPassQuest": "Reset your password?",
+    "forgotPassRequest": "Enter your email address",
+    "exampleEmail": "example@example.com",
+    "send": "Send",
+    "phonenumber": "Phone number",
+    "errorPhone": "Please enter your phone number",
+    "hintPhone": "Enter your phone number",
+    "invalidPhone": "Invalid phone number",
+    "invalidEmail": "Invalid email format. Please use a valid email like abcxyz@example.com.",
+    "examplePhone": "0123456789",
+    "dob": "Date of birth"
+  },
+  "home_screen": {
+    "shop": "Shop now"
+  }
+}
